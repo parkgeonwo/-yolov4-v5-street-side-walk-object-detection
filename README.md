@@ -83,15 +83,15 @@ yolo v4, v5를 활용한 도보 위 객체 탐지 모델 개발
 ### 10. 참고 & 활용 자료
 
 - yolov4
-- 
+
 https://github.com/AlexeyAB/darknet.git
 
 - yolov5
-- 
+
 https://github.com/ultralytics/yolov5.git
 
 - yolo to tensorflow lite
-- 
+
 https://github.com/haroonshakeel/tensorflow-yolov4-tflite
 
 
