@@ -25,7 +25,7 @@ yolo v4, v5를 활용한 도보 위 객체 탐지 모델 개발
 
 주제 선정 및 데이터 수집 --> XML 형식 라벨링 데이터 변환 작업 --> 추가 이미지 수집 및 라벨링
 
---> 모델 설계 및 학습 --> PPT 제작 및 마무리
+--> 모델 설계 및 학습 --> 모델을 Tensorflow lite로 변형하여 안드로이드 휴대폰에서 실행
 
 
 ### 4. 모델 적용 데이터 및 적용 기술
@@ -54,7 +54,7 @@ yolo v4, v5를 활용한 도보 위 객체 탐지 모델 개발
 
 <img width="50%" src="https://user-images.githubusercontent.com/87109907/144701782-00b65a40-9961-40b0-a24d-0bea966d8ea0.PNG"/>
 
-### 7. 결과 이미지
+### 7. 결과 이미지 
 
 
 <img width="45%" src="https://user-images.githubusercontent.com/87109907/144701800-ce81cecb-bbfc-4bdf-8e37-b728ed9dccee.png"/>
