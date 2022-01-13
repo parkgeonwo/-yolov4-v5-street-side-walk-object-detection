@@ -4,10 +4,10 @@ yolo v4, v5를 활용한 도보 위 객체 탐지 모델 개발
 ### 1. 개발 환경
 
 - python
-- R
-- tensorflow
-- pytorch
+- Yolo v4, v5
+- tensorflow lite
 - colab
+- android studio
 
 ### 2. 개발 기획
 
@@ -61,13 +61,24 @@ yolo v4, v5를 활용한 도보 위 객체 탐지 모델 개발
 
 <img width="45%" src="https://user-images.githubusercontent.com/87109907/144701802-40faed93-8b1a-4db3-ab4a-7dc6558b5e17.png"/>
 
+### 8. Tensorflow lite로 변형하여 안드로이드에서 실행한 결과이미지
+
+<img width="45%" src="https://user-images.githubusercontent.com/87109907/149281796-2af18de7-7f50-4f3d-9ac8-788f31fad6f6.jpg"/>
+
+<img width="45%" src="https://user-images.githubusercontent.com/87109907/149281823-cfabe976-257c-4ff2-8b8b-1e2799f9ca8d.png"/>
+
+<img width="45%" src="https://user-images.githubusercontent.com/87109907/149281836-663fbc0d-bb07-4593-b608-98d2c71dedcd.png"/>
 
 
+### 9. 보완할점
 
+컴퓨터에서 이미지나 영상을 detect할떄는 fps가 높고 inference time이 낮아 빠르게 객체를 인식하고 성능이 좋았으나,
 
+모델을 tensorflow lite로 변형 후 안드로이드 모바일에서 실행했을땐 인식속도가 현저히 떨어졌다.
 
+실제로 사용하기에 사용성이 많이 떨어진다. 컴퓨터에서 인식할 수 있는만큼 모바일에서 가능한 방법을 생각해봐야 겠다.
 
-
++ 모바일에서 말고 다른 외부기기에서도 사용할 수 있도록 추가해볼 예정이다.
 
 
 
