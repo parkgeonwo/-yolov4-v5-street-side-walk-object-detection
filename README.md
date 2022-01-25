@@ -54,12 +54,14 @@ yolo v4, v5를 활용한 도보 위 객체 탐지 모델 개발
 
 <img width="50%" src="https://user-images.githubusercontent.com/87109907/144701782-00b65a40-9961-40b0-a24d-0bea966d8ea0.PNG"/>
 
-### 7. 결과 이미지 
+### 7. 결과 이미지 검출 & 비디오 검출
 
 
 <img width="45%" src="https://user-images.githubusercontent.com/87109907/144701800-ce81cecb-bbfc-4bdf-8e37-b728ed9dccee.png"/>
 
 <img width="45%" src="https://user-images.githubusercontent.com/87109907/144701802-40faed93-8b1a-4db3-ab4a-7dc6558b5e17.png"/>
+
+![ezgif com-gif-maker (500)](https://user-images.githubusercontent.com/87109907/150899082-0e0125a7-fd62-42a6-904c-f72bd1cacb27.gif)
 
 ### 8. Tensorflow lite로 변형하여 안드로이드에서 실행한 결과이미지
 
